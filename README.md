@@ -1,8 +1,3 @@
-# ⚠️ Project Archived
-
-This project is no longer maintained and has been archived.
-Thank you for your support and for being part of this journey. ❤️
-
 # Toolz
 
 <p align="center">
